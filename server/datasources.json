@@ -1,6 +1,12 @@
 {
   "db": {
-    "name": "db",
-    "connector": "memory"
+    "host": "",
+    "port": 27017,
+    "url":  "mongodb+srv://wishlist-scrli.mongodb.net/test",
+    "database": "wishlist",
+    "password": "F3Ga25'_r~'>YAGn",
+    "name": "mydb",
+    "user": "wishlist-db",
+    "connector": "mongodb"
   }
 }
