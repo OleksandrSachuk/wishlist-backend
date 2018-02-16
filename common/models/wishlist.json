@@ -37,7 +37,13 @@
     }
   },
   "validations": [],
-  "relations": {},
+  "relations": {
+    "wishes": {
+      "type": "hasMany",
+      "model": "wish",
+      "foreignKey": ""
+    }
+  },
   "acls": [],
   "methods": {}
 }
