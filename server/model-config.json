@@ -38,5 +38,13 @@
   "wishlist": {
     "dataSource": "db",
     "public": true
+  },
+  "user": {
+    "dataSource": "db",
+    "public": true
+  },
+  "wish": {
+    "dataSource": "db",
+    "public": true
   }
 }
