@@ -2,11 +2,12 @@
   "db": {
     "host": "",
     "port": 27017,
-    "url":  "mongodb+srv://wishlist-scrli.mongodb.net/test",
+    "url":  "mongodb+srv://wishlist-admin:2s2U8hW9r5b4@wishlist-scrli.mongodb.net/test",
     "database": "wishlist",
-    "password": "F3Ga25'_r~'>YAGn",
-    "name": "mydb",
-    "user": "wishlist-db",
+    "password": "2s2U8hW9r5b4",
+    "uri_decode_auth": true,
+    "name": "mongo-db",
+    "user": "wishlist-admin",
     "connector": "mongodb"
   }
 }
