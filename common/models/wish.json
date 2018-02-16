@@ -20,10 +20,7 @@
     "wishlist": {
       "type": "belongsTo",
       "model": "wishlist",
-      "foreignKey": "",
-      "options": {
-        "nestRemoting": true
-      }
+      "foreignKey": ""
     }
   },
   "acls": [],
